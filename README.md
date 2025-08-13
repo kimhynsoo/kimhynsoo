@@ -1,6 +1,24 @@
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wshyhs)](https://solved.ac/wshyhs)
-[<img src="http://mazandi.herokuapp.com/api?handle=wshyhs&theme=warm"/>](https://solved.ac/wshyhs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhynsoo&layout=compact)](https://github.com/kimhynsoo)
+<p align="left">
+  <!-- 1행 -->
+  <a href="https://solved.ac/wshyhs">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wshyhs" height="150"/>
+  </a>
+  <a href="https://solved.ac/wshyhs">
+    <img src="http://mazandi.herokuapp.com/api?handle=wshyhs&theme=warm" height="150"/>
+  </a>
+</p>
+
+<p align="left">
+  <!-- 2행 -->
+  <a href="https://github.com/kimhynsoo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhynsoo&layout=compact" height="150"/>
+  </a>
+  <a href="https://github.com/kimhynsoo">
+    <img src="https://github-readme-stats.vercel.app/api?username=kimhynsoo&show_icons=true&theme=default" height="150"/>
+  </a>
+</p>
+
+
 <div align= "center">
     </div>
     <div style="text-align: left;"> 
