@@ -56,7 +56,7 @@
     <div style="text-align: left;"> <a href=https://www.instagram.com/without_cowardice/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/without_cowardice/"> </a>
          <a href=https://romantic-realization.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://romantic-realization.tistory.com/"> </a>
          <a href=mailto:wshyhs@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wshyhs@gmail.com"> </a>
-         <a href=https://www.notion.so/8ab6040ffd9a45b7aa26686a7a0076fd?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/8ab6040ffd9a45b7aa26686a7a0076fd?source=copy_link"> </a>
+         <a href=[https://www.notion.so/8ab6040ffd9a45b7aa26686a7a0076fd?source](https://deadpan-bandicoot-d47.notion.site/8ab6040ffd9a45b7aa26686a7a0076fd?source=copy_link)=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/8ab6040ffd9a45b7aa26686a7a0076fd?source=copy_link"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
